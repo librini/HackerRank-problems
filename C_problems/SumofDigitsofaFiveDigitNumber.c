@@ -16,5 +16,5 @@ int main() {
         n /= 10;
     }
     printf("%d\n",res);
-    return 0;
+    return 1;
 }
