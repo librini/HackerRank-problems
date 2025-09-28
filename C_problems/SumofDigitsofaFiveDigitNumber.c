@@ -1,3 +1,8 @@
+
+/*
+    Source : https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/
+*/
+
 #include <stdio.h>
 
 int main() {
